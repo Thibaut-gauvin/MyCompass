@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBoussole</string>
+    <string name="image_name">boussole_img</string>
+
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+</resources>
